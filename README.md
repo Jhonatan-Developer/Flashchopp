@@ -1,41 +1,26 @@
-# Flash Chopp
+# Landing page Flash Chopp
 
-Chopp gelado para reunir pessoas, celebrar momentos e atender bem o seu negócio. A Flash Chopp leva barris, chopeiras e praticidade para eventos, casas, bares e restaurantes.
+Projeto de uma landing page institucional criada para apresentar a Flash Chopp e transformar visitas em contatos pelo WhatsApp. O site organiza os serviços e produtos da empresa em uma experiência visual, clara e fácil de navegar.
 
-## Uma experiência completa, do pedido ao primeiro brinde
+## O projeto
 
-Com mais de 10 anos de trajetória e mais de 500 clientes atendidos, a Flash Chopp ajuda você a organizar cada detalhe: escolha o chopp, conte quando será o evento e quantas pessoas vão participar. A equipe orienta sobre a quantidade ideal, entrega os equipamentos e deixa tudo pronto para servir.
+A página reúne apresentação da marca, soluções para diferentes públicos, catálogo de chopps, etapas de atendimento, depoimentos de clientes e dúvidas frequentes. Chamadas para ação ao longo do site facilitam o contato e ajudam o visitante a avançar do interesse ao pedido.
 
-Para bares e restaurantes, a empresa também oferece fornecimento recorrente de barris. Para festas e encontros em casa, você pode contar com barril e aluguel de chopeira. A entrega é gratuita na região atendida, conforme as informações apresentadas no site.
+O layout se adapta a celulares e computadores e inclui navegação mobile, cards de depoimentos com controles próprios e perguntas frequentes interativas.
 
-## O que você encontra no site
+## Tecnologias
 
-- Opções para casa, festas e eventos, bares e restaurantes.
-- Apresentação dos chopps Brahma, Amstel, Heineken e Bremen, além de outras opções.
-- Passo a passo de como funciona o atendimento.
-- Relatos de clientes e respostas às dúvidas frequentes.
-- Atalhos de contato e pedido pelo WhatsApp.
-- Layout responsivo para celular e computador.
+- HTML para a estrutura e o conteúdo.
+- CSS para identidade visual, animações e layout responsivo.
+- JavaScript para navegação e interações da página.
 
-## Fale com a Flash Chopp
+## Veja o projeto
 
-Peça seu chopp ou tire dúvidas pelo [WhatsApp](https://wa.me/5521977223432) ou ligue para **(21) 97722-3432**.
+- **Site publicado:** [flashchopp.netlify.app](https://flashchopp.netlify.app)
+- **Código-fonte:** [github.com/Jhonatan-Developer/Flashchopp](https://github.com/Jhonatan-Developer/Flashchopp)
 
-## Sobre este projeto
+## Quer uma landing page para o seu negócio?
 
-Esta é uma página institucional estática, construída com HTML, CSS e JavaScript. Não requer processo de build nem dependências para ser publicada.
+Posso criar um site alinhado à identidade da sua marca, pensado para apresentar seus serviços com clareza, funcionar bem no celular e facilitar o contato com seus clientes.
 
-### Executar localmente
-
-Abra `index.html` no navegador ou sirva a pasta com qualquer servidor estático. A página carrega os estilos em `assets/css/style.css`, as interações em `assets/js/script.js` e as imagens em `assets/images/`.
-
-## Estrutura
-
-```text
-├── index.html
-├── assets/
-│   ├── css/style.css
-│   ├── js/script.js
-│   └── images/
-└── README.md
-```
+**Vamos tirar sua ideia do papel? [Fale comigo pelo GitHub](https://github.com/Jhonatan-Developer).**
